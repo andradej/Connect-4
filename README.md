@@ -5,7 +5,7 @@ In this project, we worked on creating the computer player to play against an ac
 
 ## How to run:
 To play the game run:
-'''
+```
 javac Connect.java
-'''
+```
 
